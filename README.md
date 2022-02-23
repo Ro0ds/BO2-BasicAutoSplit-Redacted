@@ -1,10 +1,12 @@
-# BO2-BasicAutoSplit-Redacted
-Black Ops 2 Basic Redacted Auto Splitter
+<h1>#BO2-BasicAutoSplit-Redacted</h1>
+<p><b>Black Ops 2 Basic Redacted Auto Splitter</b></p>
 
-A basic Auto-splitter for Black Ops 2 Redacted zombies.
+<h3>Simple Redacted Auto Splitter</h3>
 
+I made this simple auto splitter just to test how it's done, will improve it soon.
 
---FEATURES--
-*- Auto split
-*- Synchronized with game time (works with real time w/splits each round)
-*- Auto pause
+* Auto Splitting
+* Auto pause
+* Uses game timer
+
+I open to suggestions, feel free to hit me up on discord: Digo#8569
