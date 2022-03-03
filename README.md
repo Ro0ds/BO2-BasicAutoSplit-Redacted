@@ -9,4 +9,4 @@ I made this simple auto splitter just to test how it's done, will improve it soo
 * Auto pause
 * Uses game timer
 
-I open to suggestions, feel free to hit me up on discord: Digo#8569
+I'm open to suggestions, feel free to hit me up on discord: Digo#8569
